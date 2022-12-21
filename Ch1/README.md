@@ -32,6 +32,6 @@
 
 <u>**Output**</u> :
 
-![Error Text](https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg)
+![Error Text](https://github.com/IamJayGondaliya/dummy/blob/master/Images/P1.PNG)
 
-<img src="https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg" width="250px">
+<img src="https://github.com/IamJayGondaliya/dummy/blob/master/Images/P1.PNG" width="250px">
